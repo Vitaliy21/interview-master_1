@@ -1,0 +1,20 @@
+{
+  "id": 1,
+  "candidates": [
+    {
+      "id": 10,
+      "candidateName": "C1",
+      "extraTime": 10
+    },
+    {
+      "id": 11,
+      "candidateName": "C5",
+      "extraTime": 10
+    },
+    {
+      "id": 13,
+      "candidateName": "C4",
+      "extraTime": 0
+    }
+  ]
+}
